@@ -6,7 +6,7 @@
 /out-tsc
 
 # dependencies
-/angular-app/node_modules
+angular-app/node_modules
 
 # IDEs and editors
 /.idea
@@ -39,8 +39,9 @@ testem.log
 Thumbs.db
 
 # Backend
-/backend/images
-/backend/angular
-/backend/.env
-/backend/node_modules
-/backend/package-lock.json
+backend/images
+backend/angular
+backend/.env
+backend/node_modules
+backend/package-lock.json
+
