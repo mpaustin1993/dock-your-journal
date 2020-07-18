@@ -38,6 +38,9 @@ testem.log
 .DS_Store
 Thumbs.db
 
-
-backend/images
-backend/angular
+# Backend
+../backend/images
+../backend/angular
+../backend/.env
+../backend/node_modules
+../backend/package-lock.json
